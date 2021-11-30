@@ -1,0 +1,8 @@
+{
+  "name": "Base",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1426cc1d"
+}
